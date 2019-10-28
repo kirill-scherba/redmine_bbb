@@ -1,0 +1,14 @@
+# Russian strings go
+ru:
+  label_bigbluebutton: Веб-соединение
+  label_bigbluebutton_join: Присоединиться
+  label_bigbluebutton_people: "Соединенные люди"
+  label_bigbluebutton_status: "Статус"
+  label_bigbluebutton_status_running: Запущенный
+  label_bigbluebutton_status_closed: На начатый
+
+  permission_bigbluebutton_join: Присоединиться
+  permission_bigbluebutton_start: Начать новое соединение
+  permission_bigbluebutton_moderator: Модератор
+  label_bigbluebutton_start: Начать соединение
+  
